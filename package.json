@@ -7,12 +7,14 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "css-loader": "^6.1.0",
+    "style-loader": "^3.1.0",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"webpack"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
