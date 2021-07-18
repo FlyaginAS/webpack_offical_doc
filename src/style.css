@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+body {
+  font-family: 'Qahiri', sans-serif;
+}
+
 .hello {
   color: red;
   background: url('./1.png');
