@@ -1,5 +1,7 @@
 import _ from 'lodash';
 
+/**starting asset management */
+
 console.log('hello from index.js');
 function component(){
   const element= document.createElement('div');
